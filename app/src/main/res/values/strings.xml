@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">عصرداده</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ایمیل</string>
+    <string name="prompt_password">رمزعبور</string>
+    <string name="action_sign_in">ورود</string>
+    <string name="action_sign_in_short">ورود</string>
+    <string name="error_invalid_email">ایمیل را به درستی وارد کنید</string>
+    <string name="error_invalid_password">لطفا پسورد را وارد کنید</string>
+    <string name="error_incorrect_password">رمز عبور نادرست است</string>
+    <string name="error_field_required">لطفا ایمیل را وارد کنید</string>
+    <string name="full_name_text">نام و نام خانوادگی</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
